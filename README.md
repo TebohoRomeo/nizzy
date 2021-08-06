@@ -1,8 +1,10 @@
-# Team name: NizzBankTeam
-# App name: NizzBank
+# Team name: 
+	NizzBankTeam
+# App name: 
+	NizzBank
 # Team members: 
-	-Teboho Lekhalo
-	-Thabo Radiopane
+	Teboho Lekhalo
+	Thabo Radiopane
 	Xolani Lubisi
 
 #About NizzBank
